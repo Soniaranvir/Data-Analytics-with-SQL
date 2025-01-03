@@ -1,7 +1,7 @@
 # Data-Analytics-with-SQL
 ---
 
-# <a href = https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Fapp-store-logo%2F&psig=AOvVaw0rsVva8hFBBjhd7hk62gUt&ust=1736032642772000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiX-9zX2ooDFQAAAAAdAAAAABAE> </a> Apple Store Data Analysis Project  
+# Apple Store Data Analysis Project  
 
 ### 🚀 **Overview**  
 This project focuses on analyzing Apple Store data to uncover trends, insights, and characteristics that contribute to app success. By leveraging SQL, we explore key aspects like user ratings, app genres, pricing models, and app descriptions.  
