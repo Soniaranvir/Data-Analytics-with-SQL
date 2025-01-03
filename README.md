@@ -3,6 +3,10 @@
 
 # Apple Store Data Analysis Project  
 
+## Scenario
+
+An aspiring app developer seeks insights into what kind of app to build. This analysis provides data-driven recommendations for making informed decisions.
+
 ### 🚀 **Overview**  
 This project focuses on analyzing Apple Store data to uncover trends, insights, and characteristics that contribute to app success. By leveraging SQL, we explore key aspects like user ratings, app genres, pricing models, and app descriptions.  
 
