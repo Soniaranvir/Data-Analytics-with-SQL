@@ -1,6 +1,5 @@
 # Data-Analytics-with-SQL
 ---
-# ![image](https://github.com/user-attachments/assets/52719960-f84f-4360-98f3-4273698cb195=600x300) Apple Store Data Analysis Project  
 
 ## Scenario
 
